@@ -1,6 +1,7 @@
 # Escoller Vacacións en Galiza
 * As finalistas
-1.Mariña Lucense
+
+1. Mariña Lucense
 ![imagen en línea](https://www.sientegalicia.com/blog/wp-content/uploads/2020/02/1170x690.jpg)
 2. Costa da Morte
 ![imagen en línea](https://www.visitacostadamorte.com/archivos/playa-de-corbeiro-1504862103.jpg)
