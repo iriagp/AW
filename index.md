@@ -8,6 +8,8 @@ Esto es una prueba de cita del [ver @smith04]
 ```
 esto es una parte de código
 ```
+[enlace en línea](http://www.limni.net)
+
 
 [enlace página web] (URL http://marca.es)
 ![enlace imagen]: 
