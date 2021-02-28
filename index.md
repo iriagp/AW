@@ -9,16 +9,12 @@
 4.  Illas Atlánticas
 ![imagen en línea](https://www.islascies.eu/uploads/1/5/2/2/15227634/playa-rodas-islas-cies-galicia-1_orig.jpeg)
 
-## Subtitulo
-
 >Esto es una prueba de cita 
 
 ```
 esto es una prueba de código
 ```
 [enlace en línea a buscador](http://www.google.es)
-
-![imagen en línea](https://www.sientegalicia.com/blog/wp-content/uploads/2020/02/1170x690.jpg)
 
 [enlace a referencias](referencias.md)
 
