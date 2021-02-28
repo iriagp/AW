@@ -28,7 +28,7 @@
 ```
 esto es una prueba de código
 ```
-[Leer](https://www.trendencias.com/viajes/37-razones-para-pasar-verano-galicia-al-vez-vida-1)https://www.trendencias.com/viajes/37-razones-para-pasar-verano-galicia-al-vez-vida-1)
+[Leer](http://marca.es)
 
 [enlace a referencias](referencias.md)
 
