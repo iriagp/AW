@@ -1,6 +1,6 @@
 # Escoller Vacacións en Galiza
 * As finalistas
-* 
+
 1. Mariña Lucense
 ![imagen en línea](https://www.65ymas.com/uploads/s1/58/60/1/bigstock-playa-las-catedrales-catedrais-262817350-1.jpeg)
 
@@ -8,12 +8,16 @@
 
 ![imagen en línea](https://www.visitacostadamorte.com/archivos/playa-de-corbeiro-1504862103.jpg)
 
+
 3. Salnés
 
 ![imagen en línea](https://www.hola.com/imagenes/viajes/20190816147503/lanzada-playa-pontevedra-galicia/0-709-974/lanzada-ermitaa-a.jpg)
 
+
 4. Illas Atlánticas
+5. 
 ![imagen en línea](https://www.islascies.eu/uploads/1/5/2/2/15227634/playa-rodas-islas-cies-galicia-1_orig.jpeg)
+
 
 >Esto es una prueba de cita 
 
