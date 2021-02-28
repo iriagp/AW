@@ -1,5 +1,5 @@
 # Escoller Vacacións en Galiza
-**As finalistas
+**As finalistas**
 
 1. *Mariña Lucense*
 ![imagen en línea](https://www.65ymas.com/uploads/s1/58/60/1/bigstock-playa-las-catedrales-catedrais-262817350-1.jpeg)
