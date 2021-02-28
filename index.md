@@ -10,7 +10,7 @@
 ```
 esto es una prueba de código
 ```
-[enlace en línea](http://www.limni.net)
+[enlace en línea a buscador](http://www.google.es)
 
 ![imagen en línea](https://www.sientegalicia.com/blog/wp-content/uploads/2020/02/1170x690.jpg)
 
