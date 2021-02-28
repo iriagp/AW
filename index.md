@@ -10,9 +10,9 @@ esto es una parte de código
 ```
 [enlace en línea](http://www.limni.net)
 
+![imagen en línea](https://www.sientegalicia.com/blog/wp-content/uploads/2020/02/1170x690.jpg)
 
-[enlace página web] (URL http://marca.es)
-![enlace imagen]: 
+
 
 Unha lista numerada ou non numerada
 Unha cita
