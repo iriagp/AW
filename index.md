@@ -1,9 +1,9 @@
 # Escoller Vacacións en Galiza
 * As finalistas
 
-1. Costa da Morte
-![imagen en línea](https://www.65ymas.com/uploads/s1/58/60/1/bigstock-playa-las-catedrales-catedrais-262817350-1.jpeg)
 
+![imagen en línea](https://www.65ymas.com/uploads/s1/58/60/1/bigstock-playa-las-catedrales-catedrais-262817350-1.jpeg)
+1. Mariña Lucense
 2. Costa da Morte
 ![imagen en línea](https://www.visitacostadamorte.com/archivos/playa-de-corbeiro-1504862103.jpg)
 
