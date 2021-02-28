@@ -4,7 +4,8 @@
 3. item 3
 ## Subtitulo
 
-Esto es una prueba de cita del [ver @smith04]
+>Esto es una prueba de cita 
+
 ```
 esto es una parte de código
 ```
