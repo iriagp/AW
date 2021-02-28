@@ -1,5 +1,5 @@
 # Escoller Vacacións en Galiza
-* Lista numerada
+* As finalistas
 1. Mariña Lucense
 ![imagen en línea](https://www.sientegalicia.com/blog/wp-content/uploads/2020/02/1170x690.jpg)
 2. Costa da Morte
