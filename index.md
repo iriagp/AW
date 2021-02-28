@@ -7,7 +7,7 @@
 >Esto es una prueba de cita 
 
 ```
-esto es una parte de código
+esto es una prueba de código
 ```
 [enlace en línea](http://www.limni.net)
 
