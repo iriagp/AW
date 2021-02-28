@@ -15,9 +15,4 @@ esto es una parte de código
 
 [enlace a referencias](referencias.md)
 
-Unha lista numerada ou non numerada
-Unha cita
-Unha parte de código 
-Un enlace a unha páxina web
-Optativo. Unha imaxe
-Optativo. Crear outra páxina (por exemplo, referencias.md) e crear un link a dita páxina. 
+
